@@ -1,0 +1,6 @@
+c:\users\developer\documents\visual studio 2013\Projects\ReviewCollector\ReviewCollector\bin\Debug\ReviewCollector.exe.config
+c:\users\developer\documents\visual studio 2013\Projects\ReviewCollector\ReviewCollector\bin\Debug\ReviewCollector.exe
+c:\users\developer\documents\visual studio 2013\Projects\ReviewCollector\ReviewCollector\bin\Debug\ReviewCollector.pdb
+c:\users\developer\documents\visual studio 2013\Projects\ReviewCollector\ReviewCollector\obj\Debug\ReviewCollector.csprojResolveAssemblyReference.cache
+c:\users\developer\documents\visual studio 2013\Projects\ReviewCollector\ReviewCollector\obj\Debug\ReviewCollector.exe
+c:\users\developer\documents\visual studio 2013\Projects\ReviewCollector\ReviewCollector\obj\Debug\ReviewCollector.pdb
