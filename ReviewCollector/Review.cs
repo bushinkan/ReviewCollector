@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Data.Linq.Mapping;
 
 namespace ReviewCollector
 {
+    [Table(Name="Reviews")]
     public class Review
     {
         public int Id { get; set; }
